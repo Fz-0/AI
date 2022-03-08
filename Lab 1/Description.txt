@@ -1,0 +1,35 @@
+Date 27-01-22
+Lab 1
+in Artificial intelligence we use languages like python, java, R etc
+Python is most favourite language of AI Developers. python is interprate base and general purpose language.
+
+model----> ML-----> 
+
+we can train models according to our requirement and we can also use already trained models. but those models couldnot be so 
+accurate because the are trained on any other type of data, which could be far differ from your one.
+
+Accuracy Problem:
+	1: Data Could be Corrupt.
+	2: Model is not trained Well.
+	3: Model cannot work with selected data (incompatible).
+
+Paths:
+	1: Relative (name.exe)			2: Absolute (C:/programs/name.exe)
+
+Basic Steps in ML:
+	
+	Import Basic libraries.
+	Read Dataset.
+	Preprocess Dataset.
+	Distribute your dataset into dependent and independent variables.
+	Splitup your dataset into training and testing 
+	Choose Model
+	Train Model
+	Test Model
+	Eveluate Model
+
+
+***************** Image Processing for Emotion recognition System ********************
+
+Libraries we use for image processing:
+	1: OpenCv		2: Tencor Flow
